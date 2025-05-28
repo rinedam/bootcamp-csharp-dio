@@ -1,0 +1,22 @@
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\bin\Debug\net9.0\MeuPrograma.Common.deps.json
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\bin\Debug\net9.0\MeuPrograma.Common.dll
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\bin\Debug\net9.0\MeuPrograma.Common.pdb
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.dll
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\obj\Debug\net9.0\refint\MeuPrograma.Common.dll
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.pdb
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio - Copia\MeuPrograma.Common\obj\Debug\net9.0\ref\MeuPrograma.Common.dll
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\bin\Debug\net9.0\MeuPrograma.Common.deps.json
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\bin\Debug\net9.0\MeuPrograma.Common.dll
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\bin\Debug\net9.0\MeuPrograma.Common.pdb
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.dll
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\obj\Debug\net9.0\refint\MeuPrograma.Common.dll
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\obj\Debug\net9.0\MeuPrograma.Common.pdb
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\MeuPrograma.Common\obj\Debug\net9.0\ref\MeuPrograma.Common.dll
