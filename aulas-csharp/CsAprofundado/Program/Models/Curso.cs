@@ -1,8 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Threading.Tasks;
 
 namespace CsAprofundado.Program.Models
 {
@@ -29,9 +25,10 @@ namespace CsAprofundado.Program.Models
 
         public void ListarAlunos()
         {
-            foreach (var aluno in Alunos)
+            for (int i = 0; i < Alunos.Count; i++)
             {
-                Console.WriteLine($"Nome: {aluno.Nome}, Sobrenome: {aluno.Sobrenome.ToUpper()}");
+                string texto = $"N {i + 1} - {Alunos[i].NomeCompleto}";
+                System.Console.WriteLine(texto);
             }
         }
     }

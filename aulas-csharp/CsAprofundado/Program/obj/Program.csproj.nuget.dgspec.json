@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Documents\\Estudos\\c#_bootcampdio\\CsAprofundado\\Program\\Program.csproj": {}
+    "C:\\Users\\Administrador\\Documents\\Estudos\\c#_bootcampdio\\aulas-csharp\\CsAprofundado\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Documents\\Estudos\\c#_bootcampdio\\CsAprofundado\\Program\\Program.csproj": {
+    "C:\\Users\\Administrador\\Documents\\Estudos\\c#_bootcampdio\\aulas-csharp\\CsAprofundado\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Estudos\\c#_bootcampdio\\CsAprofundado\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Estudos\\c#_bootcampdio\\aulas-csharp\\CsAprofundado\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\Administrador\\Documents\\Estudos\\c#_bootcampdio\\CsAprofundado\\Program\\Program.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Documents\\Estudos\\c#_bootcampdio\\aulas-csharp\\CsAprofundado\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Documents\\Estudos\\c#_bootcampdio\\CsAprofundado\\Program\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Documents\\Estudos\\c#_bootcampdio\\aulas-csharp\\CsAprofundado\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
