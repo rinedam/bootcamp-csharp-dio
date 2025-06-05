@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\bin\Debug\net9.0\CsPoo.exe
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\bin\Debug\net9.0\CsPoo.deps.json
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\bin\Debug\net9.0\CsPoo.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\bin\Debug\net9.0\CsPoo.dll
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\bin\Debug\net9.0\CsPoo.pdb
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\obj\Debug\net9.0\CsPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\obj\Debug\net9.0\CsPoo.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\obj\Debug\net9.0\CsPoo.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\obj\Debug\net9.0\CsPoo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\obj\Debug\net9.0\CsPoo.sourcelink.json
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\obj\Debug\net9.0\CsPoo.dll
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\obj\Debug\net9.0\refint\CsPoo.dll
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\obj\Debug\net9.0\CsPoo.pdb
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\obj\Debug\net9.0\CsPoo.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\c#_bootcampdio\aulas-csharp\CsPoo\CsPoo\obj\Debug\net9.0\ref\CsPoo.dll
